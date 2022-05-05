@@ -90,6 +90,7 @@ ENV/
 .ropeproject
 
 .idea/
+migrations/
 app.sqlite
 db_repository/
 tmp/associations/
