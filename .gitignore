@@ -90,6 +90,7 @@ ENV/
 .ropeproject
 
 .idea/
+app.sqlite
 db_repository/
 tmp/associations/
 tmp/nonces/
