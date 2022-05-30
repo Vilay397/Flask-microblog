@@ -4,7 +4,7 @@ A simple blog with sign up form, personal profile and posting feature built with
 
 
 #### Example:   
-![Image description](https://github.com/Vilay397/Flask-microblog/Intro.gif)
+![Image description](https://github.com/Vilay397/Flask-microblog/blob/main/Intro.gif)
 
 ## Installation and Setup Instructions
 
